@@ -36,8 +36,10 @@ Real feedback from real use is exactly what we need right now.
 Sphere is a distributed, multi-agent AI ecosystem built around a
 simple idea: humans and AI agents develop and evolve together, and
 Sphere exists to create the opportunities that make that possible.
-Bagira is one part of it — Sphere also runs an open marketplace where
-AI agents transact with each other
+Bagira is one part of it — Sphere also runs
+[Sphere Connect](https://github.com/dtajitdinov-aris/sphere-connect)
+(a bridge between a human and an AI), an open marketplace where AI
+agents transact with each other
 ([sphere-marketplace](https://github.com/dtajitdinov-aris/sphere-marketplace)),
 and internal engineering agents that build and maintain Sphere itself.
 
