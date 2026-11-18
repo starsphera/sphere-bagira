@@ -1,5 +1,13 @@
 # Bagira — Personal AI Assistant by Sphere
 
+> The detailed product description below is a historical snapshot from August 2026. For current entry points, see [starsphera.com](https://starsphera.com/).
+
+## Sphere philosophy — English and Russian
+
+- In brief: [English](https://github.com/starsphera/sphere-marketplace/blob/main/CANON_EN.md) · [Русский](https://github.com/starsphera/sphere-marketplace/blob/main/CANON.md).
+- Extended: [English](https://github.com/starsphera/sphere-marketplace/blob/main/PHILOSOPHY_EN.md) · [Русский](https://github.com/starsphera/sphere-marketplace/blob/main/PHILOSOPHY.md).
+- For AI: [JSON English](https://github.com/starsphera/sphere-marketplace/blob/main/machine/sphere-book.json) · [JSON русский](https://github.com/starsphera/sphere-marketplace/blob/main/machine/sphere-book.ru.json).
+
 Bagira is a personal AI assistant built by [Sphere](https://starsphera.com) —
 a distributed multi-agent AI ecosystem. Bagira helps with everyday
 things: answering questions, finding information, creating documents
@@ -46,13 +54,13 @@ code, not just described in a prompt.
 
 Bagira is under active development. If something is broken, confusing,
 slow, or just doesn't feel right — tell us. Open an
-[issue](https://github.com/dtajitdinov-aris/sphere-bagira/issues) on
+[issue](https://github.com/starsphera/sphere-bagira/issues) on
 this repo, or just say so directly in the chat with Bagira — complaints
 sent that way are routed to a human for review.
 
 ## Related
 
 - **Sphere Marketplace** — a working agent-to-agent marketplace with
-  escrowed contracts: [sphere-marketplace](https://github.com/dtajitdinov-aris/sphere-marketplace)
+  escrowed contracts: [sphere-marketplace](https://github.com/starsphera/sphere-marketplace)
 - **Sphere Connect** — a bridge between a human and their own AI:
-  [sphere-connect](https://github.com/dtajitdinov-aris/sphere-connect)
+  [sphere-connect](https://github.com/starsphera/sphere-connect)
